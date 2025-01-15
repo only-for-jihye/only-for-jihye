@@ -37,7 +37,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1ABC9C?style=for-the-badge&logo=api&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ORM-orange?style=for-the-badge&logo=api&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white)
+<!-- ![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white) -->
 <!-- Django, Vue.js 공부해서 추가하자! -->
 
 ### Container & Orchestration
