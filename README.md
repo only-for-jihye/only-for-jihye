@@ -11,10 +11,12 @@
 - 2019.03 ~ 2019.04 Linux+데이터베이스 향상과정
 
 ### Career
-- 2024.08 ~ 2025.03 : 오토앤(주) ICT연구소 IT관리팀 (직급 : 책임)
-- 2018.10 ~ 2024.08 : (주)아이비컴텍 프로젝트팀 (직급 : 과장)
+- 2025.03 ~ 현재     : 에스코어(주) 소프트웨어사업부 솔루션사업팀 Knox기술그룹 (직급 : 프로)
+- 2024.08 ~ 2025.03 : 오토앤(주) ICT연구소 IT관리팀 (직급 : 책임연구원)
+- 2018.10 ~ 2024.08 : (주)아이비컴텍 프로젝트팀 (직급 : 사원 ~ 과장)
 
 ### Project
+- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트 (담당업무 : Knox기술그룹 DevOps 담당자 및 SGS ActiveSync 백엔드 개발자)
 - 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (담당업무 : 시스템 운영 관리자 및 Database Administrator)
 - 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 운영팀 (담당업무 : 수집관리 운영자)
 - 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (담당업무 : 백엔드 개발자 및 DevOps 엔지니어, 클라우드 엔지니어)
@@ -37,7 +39,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1ABC9C?style=for-the-badge&logo=api&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ORM-orange?style=for-the-badge&logo=api&logoColor=white)
-<!-- ![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white) -->
+![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white)
 <!-- Django, Vue.js 공부해서 추가하자! -->
 
 ### Container & Orchestration
@@ -71,6 +73,7 @@
 ![Eclipse-IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![STS](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<!-- IntelliJ 추가 -->
 <!-- PyCham? 써볼 것.. -->
 
 ### Middleware
@@ -89,4 +92,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![svn](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+<!-- Jenkins -->
+<!-- GitAction -->
 	
