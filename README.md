@@ -1,17 +1,19 @@
 # Hello, I'm Jongsoo Won👋
 
 ### 목표
-- 운영보다는 개발을 잘하는 개발자가 될 것!
-- 개발 전, 분석과 설계를 꼼꼼히 진행할 것!
-- 기초부터 탄탄하게 다시 다질 것 -> pure Java, Spring, Infra(N/W), RDB, NoSQL + openAPI LLM
-- 순차적 성장할 것 : 개발자 -> TL -> PL -> PM
-- 하루하루 최선을 다할 것, 늘 감사할 것
+- 개발 잘하는 개발자 되기
+- 상세 분석과 아키텍처 설계
+- 백엔드 개발 기초부터 다시 -> pure Java, Spring, Infra(N/W), RDB, NoSQL
+- DevOps도 기초부터 다시 -> Git, Jenkins, SonarQube, CodeBot, Black Duck Hub, Testopia
+- Samsung Cloud Platform 사용을 위한 Container Orchestration 다시 -> Docker, K8s, HelmChart
+- 삼성 S/W 검정 자격 취득 : AD (2025) -> PRO (2026)
+- 순차적 성장 : 멤버 -> TL -> PL -> PM
+- 하루하루 최선을 다하고 늘 감사하며 살기
 
 ### Profile
 - 😎 Jongsoo Won
 - 🎂 1990.08.16
-- 📧 hanhyoju7@naver.com
-- 📧 jongsoo.won@samsung.com
+- 📧 hanhyoju7@naver.com / jongsoo.won@samsung.com
 
 ### Education
 - 2009.03 ~ 2018.08 한국외국어대학교 경영정보학과 졸업 (부전공 : 광고.PR.브랜딩)
