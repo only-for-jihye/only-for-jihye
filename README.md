@@ -16,14 +16,11 @@
 - 2018.10 ~ 2024.08 : (주)아이비컴텍 프로젝트팀 (직급 : 사원 ~ 과장)
 
 ### Project
-- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트
-                     (담당업무 : Knox기술그룹 DevOps 담당자 및 SGS ActiveSync 백엔드 개발자)
-                      DevOps : Jenkins CI/CD Pipeline & Code Quality Mgmt Tools (SonarQube, CodeBot, Black Duck Hub, Testopia)
-                      ActiveSync : Java17, Spring3, MariaDB, Redis, LLM(openAI)
-- 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (담당업무 : 시스템 운영 관리자 및 Database Administrator)
-- 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 운영팀 (담당업무 : 수집관리 운영자)
-- 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (담당업무 : 백엔드 개발자 및 DevOps 엔지니어, 클라우드 엔지니어)
-- 2023.07 ~ 2023.12 : SKTelecom TANGO 운용 수집관리 - 수집부 구조개선 사업 (담당업무 : 프로젝트 매니저 및 백엔드 개발자)
+- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트 (DevOps 엔지니어 및 ActiveSync 백엔드 개발자)
+- 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (시스템 운영 관리자 및 Database Administrator)
+- 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 운영팀 (수집관리 운영자)
+- 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (백엔드 개발자 및 DevOps 엔지니어, 클라우드 엔지니어)
+- 2023.07 ~ 2023.12 : SKTelecom TANGO 운용 수집관리 - 수집부 구조개선 사업 (프로젝트 매니저 및 백엔드 개발자)
 
 ### Personality
 ![Leadership](https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge&logo=leader&logoColor=white)
