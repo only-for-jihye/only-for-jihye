@@ -16,7 +16,7 @@
 - 2018.10 ~ 2024.08 : (주)아이비컴텍 프로젝트팀 (직급 : 사원 ~ 과장)
 
 ### Project
-- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트 (DevOps 엔지니어 및 ActiveSync 백엔드 개발자)
+- 2025.03 ~ 현    재 : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트 (DevOps 엔지니어 및 ActiveSync 백엔드 개발자)
 - 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (시스템 운영 관리자 및 Database Administrator)
 - 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 운영팀 (수집관리 운영자)
 - 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (백엔드 개발자 및 DevOps 엔지니어, 클라우드 엔지니어)
