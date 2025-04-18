@@ -1,9 +1,17 @@
 # Hello, I'm Jongsoo Won👋
 
+### 목표
+- 운영보다는 개발을 잘하는 개발자가 될 것!
+- 개발 전, 분석과 설계를 꼼꼼히 진행할 것!
+- 기초부터 탄탄하게 다시 다질 것 -> pure Java, Spring, Infra(N/W), RDB, NoSQL + openAPI LLM
+- 순차적 성장할 것 : 개발자 -> TL -> PL -> PM
+- 하루하루 최선을 다할 것, 늘 감사할 것
+
 ### Profile
 - 😎 Jongsoo Won
 - 🎂 1990.08.16
 - 📧 hanhyoju7@naver.com
+- 📧 jongsoo.won@samsung.com
 
 ### Education
 - 2009.03 ~ 2018.08 한국외국어대학교 경영정보학과 졸업 (부전공 : 광고.PR.브랜딩)
