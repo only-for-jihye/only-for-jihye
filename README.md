@@ -16,7 +16,10 @@
 - 2018.10 ~ 2024.08 : (주)아이비컴텍 프로젝트팀 (직급 : 사원 ~ 과장)
 
 ### Project
-- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트 (담당업무 : Knox기술그룹 DevOps 담당자 및 SGS ActiveSync 백엔드 개발자)
+- 2025.03 ~ 현재     : 삼성그룹 Knox Portal Mail Engine 개발 프로젝트
+                     (담당업무 : Knox기술그룹 DevOps 담당자 및 SGS ActiveSync 백엔드 개발자)
+                      DevOps : Jenkins CI/CD Pipeline & Code Quality Mgmt Tools (SonarQube, CodeBot, Black Duck Hub, Testopia)
+                      ActiveSync : Java17, Spring3, MariaDB, Redis, LLM(openAI)
 - 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (담당업무 : 시스템 운영 관리자 및 Database Administrator)
 - 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 운영팀 (담당업무 : 수집관리 운영자)
 - 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (담당업무 : 백엔드 개발자 및 DevOps 엔지니어, 클라우드 엔지니어)
@@ -39,7 +42,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1ABC9C?style=for-the-badge&logo=api&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ORM-orange?style=for-the-badge&logo=api&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white)
+<!--![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white) -->
 <!-- Django, Vue.js 공부해서 추가하자! -->
 
 ### Container & Orchestration
