@@ -2,7 +2,6 @@
 
 ### Profile
 - 😎 Jongsoo Won
-- 🎂 1990.08.16
 - 📧 hanhyoju7@naver.com
 - 📧 jongsoo.won@samsung.com
 
