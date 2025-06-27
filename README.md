@@ -102,6 +102,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-2E3238?style=for-the-badge&logo=sonatypenejexus&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white)
 
 ### Code Quality Tool
 ![Testopia](https://img.shields.io/badge/Testopia-3366CC?style=for-the-badge&logoColor=white)
