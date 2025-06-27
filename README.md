@@ -17,10 +17,10 @@
 
 ### Project
 - 2025.03 ~ 2025.12 : 삼성그룹 Knox Portal Mail-engine 프로젝트 (백엔드 개발자 및 DevOps 엔지니어)
-- 2024.08 ~ 2025.03 : 오토앤(주) 시스템 운영 (시스템 운영 관리자 및 Database Administrator)
+- 2024.08 ~ 2025.03 : 오토앤(주) 자사 정보 시스템 운영 (시스템 운영 관리자 및 Database Administrator)
 - 2022.03 ~ 2024.08 : SKTelecom TANGO 클라우드 전환 사업 (백엔드 개발자 및 DevOps 엔지니어)
 - 2023.07 ~ 2023.12 : SKTelecom TANGO 운용 수집관리 - 수집부 구조개선 사업 (프로젝트 매니저 및 백엔드 개발자)
-- 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 - 운영 (수집관리 운영자)
+- 2018.10 ~ 2024.08 : SKTelecom TANGO 운용 수집관리 - 운영 (수집관리 모듈 운영)
 
 ### Personality
 ![Leadership](https://img.shields.io/badge/Leadership-4CAF50?style=for-the-badge&logo=leader&logoColor=white)
@@ -39,8 +39,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-1ABC9C?style=for-the-badge&logo=api&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ORM-orange?style=for-the-badge&logo=api&logoColor=white)
-<!--![Flask](https://img.shields.io/badge/Flask?style=for-the-badge&logo=api&logoColor=white) -->
-<!-- Django, Vue.js 공부해서 추가하자! -->
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Container & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -48,6 +49,7 @@
 ![Helm](https://img.shields.io/badge/Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Samsung Cloud Platform](https://img.shields.io/badge/Samsung%20Cloud%20Platform-1234F5?style=for-the-badge&logoColor=white)
 
 ### Certified & License
 <!-- 7월 안에 승부보자 ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
@@ -57,7 +59,7 @@
 ![컴퓨터활용능력2급](https://img.shields.io/badge/컴퓨터활용능력2급-232F3E?style=for-the-badge&logo=addthis&logoColor=white)
 ![워드프로세서1급](https://img.shields.io/badge/워드프로세서1급-232F3E?style=for-the-badge&logo=addthis&logoColor=white)
 
-### Database
+### Database (SQL & NoSQL)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
@@ -70,13 +72,14 @@
 ![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-CC1B32?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### IDE
 ![Eclipse-IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![STS](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<!-- IntelliJ 추가 -->
-<!-- PyCham? 써볼 것.. -->
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Middleware
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
@@ -92,8 +95,17 @@
 ### Collaboration Tool
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### DevOps Tool
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![svn](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-<!-- Jenkins -->
-<!-- GitAction -->
-	
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-2E3238?style=for-the-badge&logo=sonatypenejexus&logoColor=white)
+
+### Code Quality Tool
+![Testopia](https://img.shields.io/badge/Testopia-3366CC?style=for-the-badge&logoColor=white)
+![CodeBot](https://img.shields.io/badge/CodeBot-4CAF50?style=for-the-badge&logoColor=white)
+![Black Duck Hub](https://img.shields.io/badge/Black%20Duck-653689?style=for-the-badge&logo=blackduck&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-F90000?style=for-the-badge&logo=sonarqube&logoColor=white)
+
