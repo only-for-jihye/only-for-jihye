@@ -62,6 +62,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Aurora](https://img.shields.io/badge/Aurora-blueviolet?style=for-the-badge&logo=aurora&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-blue?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-darkgreen?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Environment
 ![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=for-the-badge&logo=linux&logoColor=white)
